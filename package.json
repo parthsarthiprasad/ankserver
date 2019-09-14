@@ -19,12 +19,16 @@
   "devDependencies": {
     "nodemon": "^1.19.1"
   },
+  "engines": {
+    "node": "10.x"
+  },
+
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/parthsarthiprasad/restfulapi.git"
+    "url": "git+https://github.com/parthsarthiprasad/ankserver.git"
   },
   "bugs": {
-    "url": "https://github.com/parthsarthiprasad/restfulapi/issues"
+    "url": "https://github.com/parthsarthiprasad/ankserver/issues"
   },
-  "homepage": "https://github.com/parthsarthiprasad/restfulapi#readme"
+  "homepage": "https://github.com/parthsarthiprasad/ankserver#readme"
 }
